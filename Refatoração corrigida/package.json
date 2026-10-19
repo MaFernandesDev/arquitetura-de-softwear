@@ -1,0 +1,9 @@
+{
+  "name": "techstore-solid-refatorado",
+  "version": "1.1.0",
+  "description": "Sistema de pedidos refatorado com princípios SOLID",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/index.js", "test": "node --test" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
